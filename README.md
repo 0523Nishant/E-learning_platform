@@ -56,7 +56,7 @@ Server - Render
 Clone the project
 
 ```bash
-  git clone https://github.com/Aaditya1978/E-Learning-Platform
+  https://github.com/0523Nishant/E-learning_platform.git
 ```
 
 Go to the project directory
