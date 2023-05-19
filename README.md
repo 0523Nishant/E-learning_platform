@@ -93,13 +93,6 @@ Start the client
   npm start
 ```
 
-## Authors
-
-- [@Aaditya1978](https://github.com/Aaditya1978)
-- [@aastha2501](https://github.com/aastha2501)
-- [@amandeep-singh-12](https://github.com/amandeep-singh-12)
-
-
 ## Features
 
 - Live tracking of tracks and videos
